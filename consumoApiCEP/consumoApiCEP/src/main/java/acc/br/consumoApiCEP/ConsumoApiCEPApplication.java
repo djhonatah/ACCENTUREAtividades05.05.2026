@@ -1,13 +1,13 @@
-package acc.br.viacep;
+package acc.br.consumoApiCEP;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ConsultaCepApplication {
+public class ConsumoApiCEPApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ConsultaCepApplication.class, args);
+		SpringApplication.run(ConsumoApiCEPApplication.class, args);
 	}
 
 }
